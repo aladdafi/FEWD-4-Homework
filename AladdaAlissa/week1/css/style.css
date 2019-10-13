@@ -1,0 +1,38 @@
+table {
+    width: 80px; height: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+
+
+    border: double black;
+
+    padding: 8px;
+
+    background-color: white; 
+     
+    
+    
+}
+  
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+}
+table  th {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white; 
+    background-color: red;
+    font-size: 30px; 
+
+    
+} 
+
+table, td {
+
+    border: double black;    
+}
+
+body {
+    background-color: grey;
+}
