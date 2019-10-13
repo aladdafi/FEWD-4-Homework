@@ -1,0 +1,30 @@
+.hp-issue-index {
+  text-decoration: underline;
+}
+
+ul .hp-issue-article-list {
+  color: red;
+}
+
+.change-text
+{
+  color: royalblue;
+  background-color: tomato;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+span.text1
+{
+  color: blue;
+}
+
+.text-line
+{
+ text-align: right;
+}
