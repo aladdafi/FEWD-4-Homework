@@ -1,0 +1,25 @@
+html{background-color:#FFE;
+  border: black;  
+}
+
+p{
+  padding-left: 20px;
+  font-size: large;
+  font-weight: bold;
+  color:rgb(117, 117, 105); 
+}
+ol{color:#887;
+  padding-left: 120px; 
+}
+a{
+  padding-left: 100px;
+}
+a:link{color:#900;
+}
+a:hover{color: rgb(190, 30, 30)}
+img{
+    width: 400px;
+    border: solid black;
+    margin: 1px auto;
+    display: block;
+}
