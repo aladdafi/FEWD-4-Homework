@@ -1,0 +1,22 @@
+.hp-issue-index, .hp-news-category {
+  text-decoration: underline;
+  color:red;
+}
+body{
+  background-color: rgb(233, 227, 219);
+  font-family: calibri;
+
+}
+h2, p{
+  font-family: calibri;
+
+}
+
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+ul .hp-issue-article-list {
+  color: red;
+}
