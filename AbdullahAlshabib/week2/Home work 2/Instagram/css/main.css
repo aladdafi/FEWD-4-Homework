@@ -1,0 +1,141 @@
+body{
+    background-image: url(../css/color.png);
+    background-repeat: no-repeat;
+    font:  200 16px/1.5 "Helvetica Neue" , Helvetica, Arial, sans-serif;
+    
+}
+.body{
+  
+  
+  
+  
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  margin-top: 0px;
+  
+}
+.phones{
+    margin-right: 50px;
+    margin-left: 150px;
+    height: 500px;
+    width: 300px;
+    display: flex;
+    align-items: flex-start;
+}
+.main{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    justify-items: flex-start;
+    
+    
+}
+.img{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    
+
+    
+    
+}
+.brand{
+    border-image: url(../css/bgtile.png);
+    margin-left: 10px;
+    
+    width: 300px;
+    height: 80px;
+    display: flex;
+justify-items: left;
+
+
+}
+.login{
+    background-color: #205f92;
+    
+    
+    margin-top: 15px;
+    margin-left: 80px;
+    
+    width: 120px;
+    height: 40px;
+    display: flex;
+    justify-items: right;
+    justify-content: space-around;
+    font-size: 16px;
+}
+.text-login{
+    
+    color: #c6d9ec;
+    font-weight: bold;
+     
+}
+.text{
+    background-image: url(../css/frame.png);
+    
+    background-repeat: no-repeat;
+    background-size: 650px;
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    
+    margin-right: 280px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #06365f;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+}
+.bold{
+    font-weight: bold;
+}
+.store{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 40px;
+    margin-top: 50px;
+    
+}
+.android{
+    margin-left: 20px;
+}
+.text1{
+    
+    margin-left: 30px;
+    margin-right: 170px;
+   margin-top: 10px;
+}
+.text2{
+    margin-left: 30px;
+    margin-right: 170px;
+    margin-top: 10px;
+}
+.text3{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.footer  ul  li {
+    display: inline;
+    padding: 10px;
+    
+}
+ul{
+    text-align: center;
+}
+.footer{
+    margin-top: 100px;
+    color: #1c5380;
+    font-weight: bold;
+}
+.copyright{
+    color: #bfbfbf;
+}
