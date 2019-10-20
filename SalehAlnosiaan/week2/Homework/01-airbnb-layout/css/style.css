@@ -1,0 +1,136 @@
+body{
+  font-family: 'Segoe UI';
+  background-color: rgb(228, 228, 231);
+}
+
+.meetguidebooks {
+  color: #545454;
+  text-align: center;
+  line-height: 1px;
+}
+.discover{
+  color: #545454;
+  text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.sanfrancisco{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+  align-self: center;
+}
+.sanfranciscotext{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 50px;
+ font-size: 25px;
+  color: white;
+}
+.newyork{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+}
+.newyorktext{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 65px;
+ font-size: 25px;
+  color: white;
+}
+.london{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+}
+.londontext{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 85px;
+ font-size: 25px;
+  color: white;
+}
+
+.button1{
+display: inline-flex;
+  text-align: center;
+  margin-top: 54%;
+  margin-left: 12%;
+  margin-bottom: 13%;
+  padding: 9px 32px;
+   border: 0.2px solid grey;
+  font-size: 18px;
+  background-color: rgba(247, 243, 243, 0.767);
+}
+.justforweekend{
+  color: #545454;
+  text-align: center;
+line-height: 1px;
+}
+.discover2{
+  color: #545454;
+  text-align: center;
+  padding: 0px;
+}
+.container2{
+  display: flex;
+  justify-content: center;
+}
+.napa{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+  align-self: center;
+}
+.napatext{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 96px;
+ font-size: 25px;
+  color: white;
+}
+.sonoma{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+}
+.sonomatext{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 86px;
+ font-size: 25px;
+  color: white;
+}
+.sanfrancisco2{
+  width: 250px;
+  height: 300px;
+  margin: 15px;
+}
+.sanfrancisco2text{
+  width: 100%;
+  position: relative;
+  margin-top: -70%;
+  margin-left: 57px;
+ font-size: 25px;
+  color: white;
+}
+.button2{
+  display: inline-flex;
+  text-align: center;
+  margin-top: 54%;
+  margin-left: 12%;
+  
+ padding: 9px 32px;
+  border: 0.2px solid grey;
+  font-size: 24px;
+  background-color: rgba(247, 243, 243, 0.767);
+}
