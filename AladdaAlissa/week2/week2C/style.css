@@ -1,0 +1,45 @@
+h1 { 
+    background-color: orange;
+    padding: 200px;
+    margin: 0%;
+}
+
+.lo{ 
+    position: absolute;
+    top: 250px;
+    right: 400px;
+   
+
+}
+
+.phon { 
+
+   
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    
+
+}
+
+.fr { 
+
+    position: absolute;
+    top: 350px;
+    right: 40px;
+}
+
+.container{  
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    padding-top:  300px;
+    padding-right: 200px;
+    
+
+}
+ 
+
+.a , .b { 
+    padding: 10px 
+}
