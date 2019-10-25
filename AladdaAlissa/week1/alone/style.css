@@ -1,0 +1,35 @@
+body{
+    background-color: lavender;
+}
+ 
+Div {
+    font-family: monospace;
+    text-align: center;
+    
+}
+
+.hp-issue-container, .hp-issue-article-list, .hp-issue-content {
+    text-align: left;
+    
+    font-size: 15px;
+
+}
+
+h2 {
+    text-align: left;
+    background-color: bisque;
+    text-decoration-line: overline;
+    color: purple;
+
+}
+
+.hp-news-category{
+    color: azure;
+}
+
+img {
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 4px;
+}
