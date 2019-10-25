@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(219, 219, 219);
+}
+h1 {
+  color:rgb(65, 65, 65);
+  justify-content: center;
+}
+h6 {
+    color:rgb(65, 65, 65);
+    justify-content: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: row;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.item{
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  text-align-last: center;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .item1{
+      background-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    text-align-last: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }

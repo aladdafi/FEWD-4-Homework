@@ -1,0 +1,50 @@
+.hp-issue-index {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: black;
+  }
+  
+  ul , .hp-issue-article-list {
+    color: red;
+    font-size: 20px;
+  
+}
+*{
+    background-repeat: no-repeat;
+    background-color: bisque;
+}
+.img1{margin-top: 80px;
+border: solid black;}
+.img2{margin-left:  400px;
+    margin-top: 80px;
+    border: solid black; }
+    .img3{margin-top: 80px;
+        border: solid black;}
+        .img4{
+            margin-top: 100px;
+            border-style: solid black;
+            
+            
+        }
+        
+        h2{color: brown;
+            font-size: 35px;
+            
+            
+    }
+    .hp-news-title{
+        margin-top: 100px;
+    }
+        h3{color: green;}
+        h4{color: darkslategray;
+        text-decoration: underline;
+    text-decoration-color: black; }
+        p{color: blue;
+        padding: 5px; 
+}
+.footer-container{
+    margin-top: 100px;
+}
+        
