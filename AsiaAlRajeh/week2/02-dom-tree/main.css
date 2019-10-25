@@ -1,0 +1,48 @@
+.header{
+    background: lightblue;
+    margin: 0px;
+    padding: 5px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    text-align: right;
+}
+*{
+    margin: 0px;
+}
+.container{
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.item{
+    height: 250px;
+    width: 200px;
+    padding: 30px; 
+}
+ul li{
+    display: inline;
+    padding-right: 5px;
+}
+.main{
+    text-align: center;
+
+}
+.section2{
+    text-align: center;
+    padding: 30px;
+}
+.footer{
+    background: gray;
+    padding: 5px;
+    text-align: right;
+
+}
+
+.main h1{
+    display: block;
+    padding: 30px;
+}
