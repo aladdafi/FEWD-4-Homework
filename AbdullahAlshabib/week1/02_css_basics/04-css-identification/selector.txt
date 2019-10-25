@@ -1,0 +1,79 @@
+##Selector identification
+
+Identify the selectors in each style and what HTML element(s) they target. Also, which of these examples have errors? What are they?
+
+###1
+
+p { color: white; }
+
+Selector = p 
+Property = color
+Value  = white
+
+###2
+
+span { padding: 15px; }
+
+
+Selector = span
+Property = padding
+Value  = 15px
+
+###3 here error
+
+table td { color: #222; }
+
+Selector = td & table
+Property = color
+Value  = #222
+
+// error is the two Selector do not have any commas
+the correct =  table , td { color: #222; }
+ 
+
+###4  here error 
+
+.lede-section #left-side { position: absolute;}
+
+Selector = .lede-section  &   #left-side
+Property = position
+Value  = absolute
+
+ // error is the two Selector do not have any commas
+
+the correct =  .lede-section , #left-side { position: absolute; }
+
+###5
+
+#section-9 {
+  display: block
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+Selector = #section-9
+Property = display & text-decoration & font-weight 
+Value  = block & underline & bold
+
+##What's different about the following three selectors?
+
+###6
+
+.fewd25-page-section .another-class {
+  text-align: center;
+}
+###7
+
+.fewd25-page-section, .another-class {
+  text-align: center;
+}
+###8
+
+.fewd25-page-section.another-class {
+  text-align: center;
+}
+
+The difference is: 
+number ###6 There is a space between the selector but no comma and it's error.
+number ###7 There is no space between the selector and there is a comma which is true .
+number ###8 There is a no space between the selector but no comma and it's error.
