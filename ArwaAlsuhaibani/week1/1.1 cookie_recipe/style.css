@@ -1,0 +1,17 @@
+body {
+background-color: #FFE;
+border-color: black;
+border-style: solid;
+border-width: 2px;
+font-family:Helvetica;
+padding: 10px;
+}
+img {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+ul {list-style-type: none;}
+h5.special {color: #887;}
+a {color: #900}
+h6 {line-height: 0px;}
