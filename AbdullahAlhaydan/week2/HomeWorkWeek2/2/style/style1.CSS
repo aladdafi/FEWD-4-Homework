@@ -1,0 +1,69 @@
+.head{
+    
+    border-bottom: 3px solid black;
+    padding: 20px;
+}
+.logo{
+    border: 1px solid black;
+}
+.ll{
+    float: right;
+}
+ul{
+    text-align: right;;
+    list-style: none;
+    display: inline;
+    
+}
+ul li{
+    display: inline;
+    padding: 15px;
+}
+h2,h1{
+    margin:0;
+}
+.items{
+    text-align: right;
+    list-style: none;
+    margin: 0px;
+    display: inline;
+    
+}
+
+.up{
+    border-bottom: 3px solid black;
+    text-align: center;
+    background: lightgray;
+    margin: 0px;
+}
+.mid{
+    border-bottom: 3px solid black;
+    text-align: center;
+    padding: 50px;
+    
+    
+
+}
+.down{
+    margin:0px;
+    border-bottom: 3px solid black;
+    text-align: center;
+    background: lightgray;
+}
+.footer{
+    padding: 20px;
+    text-align: right;
+}
+
+body{
+    padding: 0px;
+    margin: opx;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-spacing: 10px;
+}
+.back{
+    background-color: gray;
+
+}
