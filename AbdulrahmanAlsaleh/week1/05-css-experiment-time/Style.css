@@ -1,0 +1,38 @@
+html{
+  background-color: aliceblue;
+}
+.hp-issue-index {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+    font-size: 32px;
+    padding-top: 2%;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .hp-issue-article-list {
+    padding-top: 5%;
+  }
+  img{
+    border: solid black;
+    margin-left: 40%;
+    margin-right: 65%; 
+  }
+  .cover{
+    border: solid darkred;
+    margin-left: 70%;
+    margin-right: 30%; 
+  }
+  .hp-news-author{
+    color: darkblue;
+   
+  }
+  .hp-news-date{
+    color: darkolivegreen;
+    font-size: 15px; 
+    
+  }
+  .hp-news-category{
+    color: gray;
+    margin-left: 40%;
+  }

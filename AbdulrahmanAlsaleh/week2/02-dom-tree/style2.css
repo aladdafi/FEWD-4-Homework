@@ -1,0 +1,94 @@
+html{
+    background-color: darkgray;
+    text-align: center;
+}
+body{
+    border: 0px;
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+
+}
+.header{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+.Apple{
+    color: white;
+    display: initial;
+
+}
+
+#i2-1{  
+    display:inline-flex;
+    flex-flow: row nowrap;
+    justify-content: unset;
+    margin: 5px;
+    margin-left: 1px;
+    margin-top: 10%;
+
+  
+  
+}
+#i2-2{  
+    display:inline-flex;
+    flex-flow: row nowrap;
+    justify-content: unset;
+    margin: 5px;
+    margin-left: 1px;
+    margin-top: 10%;
+  
+  
+}
+#i2-3{  
+    display:inline;
+    flex-flow: row nowrap;
+    margin: 5px;
+    margin-left: 1px;
+
+  
+  
+}
+ul#N1 {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border: 0px;
+}  
+li#i1 {
+    float: right;
+}
+ul#N2 {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border: 0px;
+} 
+li#i2 {
+    display: inline;
+}  
+li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #111;
+}
+.footer{
+    color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    border:15px;
+
+}

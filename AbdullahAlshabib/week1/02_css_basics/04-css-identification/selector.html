@@ -1,0 +1,95 @@
+<style>
+    *{background-color: blanchedalmond;}
+section{padding-top: 20px;}
+div{color: red;
+padding-top:  5px;}
+p{font-size: 20px;
+    
+font-weight: bold;}
+</style>
+
+
+<p>##Selector identification
+
+Identify the selectors in each style and what HTML element(s) they target. Also, which of these examples have errors? What are they?</p>
+
+<section>###1
+
+p { color: white; }
+
+<div>Selector = p </div> 
+<div>Property = color </div>
+<div>Value  = white </div>
+</section>
+
+<section>###2
+
+span { padding: 15px; }
+
+
+<div>Selector = span </div>
+<div>Property = padding </div>
+<div>Value  = 15px </div>
+</section>
+
+<section>###3 here error
+
+table td { color: #222; }
+
+<div>Selector = td & table</div>
+<div>Property = color</div>
+<div>Value  = #222</div>
+
+<div>// error is the two Selector do not have any commas </div>
+<div>the correct =  table , td { color: #222; } </div>
+ 
+</section>
+<section>###4  here error 
+
+.lede-section #left-side { position: absolute;}
+
+<div>Selector = .lede-section  &   #left-side </div>
+<div>Property = position </div>
+<div>Value  = absolute </div>
+
+ <div>// error is the two Selector do not have any commas</div>
+
+<div>the correct =  .lede-section , #left-side { position: absolute; } </div>
+</section>
+
+<section>###5
+
+#section-9 {
+  display: block
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+<div>Selector = #section-9 </div>
+<div> Property = display & text-decoration & font-weight </div>
+<div>Value  = block & underline & bold </div>
+
+<p>##What's different about the following three selectors?</p>
+</section>
+<section>###6
+
+.fewd25-page-section .another-class {
+  text-align: center;
+}
+###7
+
+.fewd25-page-section, .another-class {
+  text-align: center;
+}
+###8
+
+.fewd25-page-section.another-class {
+  text-align: center;
+}
+
+The difference is: 
+<div>number ###6 There is a space between the selector but no comma and it's error.</div>
+<div>number ###7 There is no space between the selector and there is a comma which is true .</div>
+<div>number ###8 There is a no space between the selector but no comma and it's error. </div>
+
+</section>

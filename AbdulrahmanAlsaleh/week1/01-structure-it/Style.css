@@ -1,0 +1,19 @@
+*{
+    background-color: whitesmoke;
+}
+p{
+    color: rgb(27, 26, 26);
+    padding-left: 25px;
+}
+a:link{
+    color: blue
+}
+a:hover{
+    color: darkblue;
+}
+a:visited{
+    color: blueviolet;
+}
+img{
+    padding-left: 25px;
+}

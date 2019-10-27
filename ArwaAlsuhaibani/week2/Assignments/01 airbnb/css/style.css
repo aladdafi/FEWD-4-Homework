@@ -1,0 +1,40 @@
+
+body { 
+  background-color: #EDEFEC;
+  font-family: sans-serif;
+  color: #55595C;
+  text-align: center;
+}
+.container { 
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+div.photo title { 
+  display: inherit;
+  height: 200px;
+  width: 200px;
+  }
+
+.photo title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+button {
+  background: #FFFFFF;
+  border: 1px solid #C4C4C4;
+  font-family: sans-serif;
+  color: #55595C;
+  height: 30px;
+  width: 200px;
+  margin: 30px;
+  }
+

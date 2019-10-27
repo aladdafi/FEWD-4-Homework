@@ -1,0 +1,28 @@
+.hp-issue-index {
+    text-decoration: underline;
+}
+ul .hp-issue-article-list {
+    color: red;
+}
+img {
+    width: 300px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);  
+    position: relative;
+    float: left;
+}
+body {
+    background: rgb(244, 244, 244);
+}
+.hp-news-title, .hp-news-author, .hp-news-date {
+    color:#0054B3;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul,li {
+    list-style-position:inside;
+}
+span.colord {
+    color:mediumaquamarine;
+}
+h2.hp-issue-index {
+    text-align: center;
+}

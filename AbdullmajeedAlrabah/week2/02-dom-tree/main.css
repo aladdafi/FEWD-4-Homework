@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+.logon
+{
+    display: flex;
+    align-content: flex-start;
+    text-align: center;
+    border: 1px solid black;
+   
+}
+.parg
+{
+   
+    text-align: center;
+    border: 1px solid black;
+    padding: 25px 50px 75px;
+}
+.item
+{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    justify-content: space-around;
+}
+
+.befor-bottom
+{
+    text-align: center;
+    border: 1px solid black;
+    padding: 25px 50px 75px;
+}
+.footer
+{
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black;
+}

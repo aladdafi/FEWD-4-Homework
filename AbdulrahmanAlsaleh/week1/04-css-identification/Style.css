@@ -1,0 +1,22 @@
+
+    html{background-color:whitesmoke;
+        padding-left: 25px;
+    }
+    section{padding-top: 35px;}
+    div{color: red;
+    padding-top:  5px;}
+    .SELECTOR{
+        color: blue;
+    }
+    .PROPERTY{
+        color: seagreen;
+    }
+    p{
+    padding-top: 5%;
+    font-size: 21px;
+    font: 1em sans-serif;
+    font-weight: bold;}
+
+    .PROPERTY.SELECTOR{
+        text-align: center;
+    }
