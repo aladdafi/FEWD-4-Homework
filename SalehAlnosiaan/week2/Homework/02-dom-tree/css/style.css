@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(248, 248, 248);
+}
+.contact{
+    list-style: none;
+    display: inline-block;
+    margin-top:4%;
+    padding:6px;
+    text-align: right;
+    float: right;
+    border-right: black 1px solid;
+}
+.about{
+    list-style: none;
+    display: inline;
+    margin-top:4%;
+    padding:6px;
+    border-right: black 0.2px solid;
+
+}
+.news{
+    list-style: none;
+    display: inline;
+    margin-top:4%;
+    padding:6px;
+    border-right: black 0.2px solid;
+
+}
+.login{
+    list-style: none;
+    display: inline;
+    margin-top:4%;
+    padding:6px;
+}
+
+.logo{
+    width:150px;
+    height: 150px;
+}
+.header1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.apple{
+    width:200px;
+    height: 200px;
+    border: solid 1px red;
+}
+.orange{
+    width:200px;
+    height: 200px;
+    border: solid 1px orange;
+}
+.banana{
+    width:200px;
+    height: 200px;
+    border: solid 1px yellow;
+}
+.item1{
+    text-align: center;
+    color: red;
+}
+.item2{
+    text-align: center;
+    color: orange;
+}
+.item3{
+    text-align: center;
+    color:yellow;
+}
+
+.header2{
+    text-align: center;
+    color: bisque;
+
+}
+.footer{
+    text-align:right;
+    
+}

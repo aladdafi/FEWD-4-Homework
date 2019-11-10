@@ -1,0 +1,28 @@
+.hp-issue-index {
+  text-decoration: underline;
+}
+
+.hp-issue-article-list {
+  color: red;
+}
+ .no-js {
+   background-color: rgb(218, 212, 212);
+ }
+ .hp-news-title{
+   font-style: italic;
+   text-align: center;
+ }
+ .hp-news-date{
+   color: blue;
+ }
+ .hp-news-block-container{
+   text-align: center;
+ }
+ .hp-news-block-container img{
+   float: right;
+   margin-right: 10px;
+   width: 400px;
+   height: 150px;
+
+
+ }

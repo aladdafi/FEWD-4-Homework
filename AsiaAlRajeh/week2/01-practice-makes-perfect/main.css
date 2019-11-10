@@ -1,0 +1,36 @@
+.aa{
+    text-align: center;
+}
+.hp-news-category{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial;
+}
+*{
+    margin: 0px;
+    background: black;
+    color: white;
+}
+h3,h4{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+.hp-news-block-container{
+    border: 1px solid white;
+    margin:300px;
+    padding:30px;
+    width: 400px;
+    height: 500px;
+    text-align: left;
+}
+img{
+width: 400px;
+height: 300px;
+}
+
+.hp-news-title{
+    text-transform: capitalize;
+    font-family: georgia;
+}

@@ -1,0 +1,19 @@
+h1 {
+  color:black;
+  text-align: center;
+}
+
+.container1 , .container2 
+{
+  display: flex;
+  justify-content: space-around;
+ 
+  flex-direction: row;
+
+}
+
+.item {
+ 
+  height: 100px;
+  width: 100px;
+  }

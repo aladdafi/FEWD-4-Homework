@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;   
+}
+ul li {
+    text-align: right;
+    list-style: none;
+    display: inline-block;
+    width:80px;
+    color: #3C3EA1;
+    font-family: Poppins;
+}
+.projects { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img { 
+    width: 80px;
+}
+p, figcaption, footer {
+    font-family:Poppins;
+    color: #3C3EA1;
+}
+.main {
+    text-align: center;
+}
+footer {
+    text-align: right;
+    padding: 5px;
+    bottom: 0;
+    position:absolute;
+    width:100%;
+ }

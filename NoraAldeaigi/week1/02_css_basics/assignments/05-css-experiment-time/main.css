@@ -1,0 +1,86 @@
+
+
+.hp-issue-index {color:green;
+  text-align: center;
+  text-decoration: underline;
+}
+.hp-issue-container{
+  border-style: solid;
+  border-width: medium;
+
+}
+ul.hp-issue-article-list {
+  color: red;
+}
+li {
+  float: left;
+  display: block;
+  color: red;
+  padding: 50px; 
+}
+
+
+h2{
+  color:blue;
+  text-align: center;
+}
+
+#img2{
+  float: right;
+  width: 50%;
+  
+}
+span{
+  color: blueviolet;
+}
+
+h3.hp-news-author{
+color: aqua;
+
+}
+img{
+  width: 100%;
+  height: auto;
+ 
+}
+.hp-news-date{
+font-style: italic;
+
+}
+.footer-block-container-footer-block-container-1{
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(0, 0, 128);
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.footer-block-container-footer-block-container-2{
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(240, 187, 222);
+  color:black;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer-block-container-footer-block-container-3{
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(187, 232, 240);
+  color:black;
+  text-align: right;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
